@@ -3,4 +3,4 @@ un checkeador de ID generado mediante python.
 
 Ejemplo:
 
-![imagen](https://github.com/vixho69/check_id_roblox/assets/133933012/b67c534d-574d-49ea-b74c-81bcb15911b9)
+![imagen](https://github.com/vixho69/check_id_roblox/assets/133933012/1ce89215-cddb-4354-a2d6-cfab72c03b21)
