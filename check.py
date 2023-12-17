@@ -24,9 +24,9 @@ def check():
         if rr.status_code == 200:
             osi = soup(rr.text, "html.parser")
             titulo = osi.title.string
-            print(f"{color.Fore.GREEN}ID: {pq}{color.Fore.RESET} | {color.Fore.YELLOW}Nombre: {color.Fore.CYAN}{titulo}")
+            print(f"{color.Fore.BLUE}{gg}  {color.Fore.GREEN}ID: {pq}{color.Fore.RESET} | {color.Fore.YELLOW}Nombre: {color.Fore.CYAN}{titulo}")
         else:
-            print(f"{color.Fore.GREEN}ID: {pq}")
+            print(f"{color.Fore.BLUE}{gg}  {color.Fore.GREEN}ID: {color.Fore.RED}{pq}")
 cantidad = int(input(">> "))
 if cantidad <= 100:
     check()
