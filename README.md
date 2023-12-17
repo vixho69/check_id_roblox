@@ -1,4 +1,4 @@
-# check__id_roblox
+# check_id_roblox
 un checkeador de ID generado mediante python.
 
 Ejemplo:
